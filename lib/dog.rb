@@ -6,3 +6,7 @@ class Dog
         puts "Woof!"
     end
 end 
+
+#creating instance of our new dog 
+fido = Dog.new
+fido.bark
